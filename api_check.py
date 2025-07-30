@@ -41,4 +41,4 @@ def check_api(url):
         logging.error(f"Error reaching {url}: {e}")
 
 # Replace with your actual API endpoints
-check_api("https://api.upcitemdb.com/prod/trial/lookup")
+check_api("https://github.com/ChesterChangLiu/Python_for_Automation")
