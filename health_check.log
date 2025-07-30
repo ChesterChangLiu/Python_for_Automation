@@ -1,3 +1,5 @@
 2025-07-30 02:38:15 - ERROR - Error reaching https://api.example.com/health: HTTPSConnectionPool(host='api.example.com', port=443): Max retries exceeded with url: /health (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x72ccced43230>: Failed to resolve 'api.example.com' ([Errno -2] Name or service not known)"))
 2025-07-30 02:38:45 - ERROR - Client Error: https://api.upcitemdb.com/prod/trial/lookup - Status: 400
 2025-07-30 02:38:46 - ERROR - Client Error: https://api.upcitemdb.com/prod/trial/lookup - Status: 400
+2025-07-30 02:44:42 - INFO - API OK: https://github.com/ChesterChangLiu/Python_for_Automation - Status: 200
+2025-07-30 02:45:40 - INFO - API OK: https://github.com/ChesterChangLiu/Python_for_Automation - Status: 200

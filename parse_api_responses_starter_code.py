@@ -32,7 +32,7 @@ parameters = {"upc": "028400516686"}
 # make API request, passing in base URL and parameters
 response = requests.get(base_url, params=parameters)
 # parse the text from the API response using JSON schema
-# info = FILL IN
+info = json.loads(response.text)
 # extract the first item from info using the index 0
 item = info["items"][0]
 # extract the product’s title by indexing item
